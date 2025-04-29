@@ -1,8 +1,8 @@
 # Chalk-plus
 a simple port of the library "chalk.js" to Rust
 
-Chalk.rs
-Chalk.rs is a Rust library that provides a simple and flexible way to style text in the terminal. Whether you're building command-line applications, making scripts more colorful, or simply want to enhance your terminal output, Chalk.rs lets you easily apply text styles and colors.
+
+Chalk-plus is a Rust library that provides a simple and flexible way to style text in the terminal. Whether you're building command-line applications, making scripts more colorful, or simply want to enhance your terminal output, Chalk.rs lets you easily apply text styles and colors.
 
 Features
 Colors: Apply colors to your text, including Black, Red, Green, Yellow, Blue, Magenta, Cyan, and White.
@@ -13,14 +13,16 @@ Easy-to-Use API: Chain methods for styling text (e.g., chalk.red("Hello").bold()
 
 Cross-Platform: Works across different platforms that support ANSI escape codes (Linux, macOS, and Windows with appropriate terminal support).
 
+#[More features coming soon]
+
 Installation
-To add Chalk.rs to your project, add it to your Cargo.toml dependencies:
+To add Chalk-plus to your project, add it to your Cargo.toml dependencies:
 
 toml
 Copy
 Edit
 [dependencies]
-chalk = "0.1"
+chalk-plus = "0.1"
 Basic Usage
 Here’s a quick example of how to use Chalk.rs in your Rust application:
 
