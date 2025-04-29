@@ -6,7 +6,7 @@ use crate::text_styling::*;
 
 #[cfg(test)]
 mod tests {
-    use super::*; // This brings the main items from lib.rs into scope for the test
+    use super::*;
 
     #[test]
     fn test_apply_color() {

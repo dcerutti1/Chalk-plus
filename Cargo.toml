@@ -2,5 +2,11 @@
 name = "chalk-rs"
 version = "0.1.0"
 edition = "2024"
+authors = ["dorian redmond <doriancerutti@gmail.com>"]
+description = "a simple chalk.js port to rust"
+license = "MIT"
+repository = "https://github.com/dcerutti1/Chalk-rs"
+keywords = ["text","terminal","color","chalk"]
+
 
 [dependencies]
