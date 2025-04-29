@@ -1,5 +1,5 @@
 [package]
-name = "chalk_rs"
+name = "chalk-plus"
 version = "0.1.0"
 edition = "2024"
 authors = ["dorian redmond <doriancerutti@gmail.com>"]
