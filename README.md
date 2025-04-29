@@ -1,4 +1,4 @@
-# Chalk-rs
+# Chalk-plus
 a simple port of the library "chalk.js" to Rust
 
 Chalk.rs
